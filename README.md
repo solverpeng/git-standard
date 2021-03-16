@@ -1,2 +1,2 @@
-# git_-standard
+# git-standard
 规范
